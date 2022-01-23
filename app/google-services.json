@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383328748088",
+    "project_id": "scanner-daec8",
+    "storage_bucket": "scanner-daec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383328748088:android:885f46c8d61e022d679ccd",
+        "android_client_info": {
+          "package_name": "ma.ensa.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383328748088-p51dfpfdefg4s2pc6ncil896e4b58isp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ma.ensa.scanner",
+            "certificate_hash": "a3dd50d26dc0d3e8e6412fbd984051018e870353"
+          }
+        },
+        {
+          "client_id": "383328748088-lmk3r2j3dp2blvh3510q1scos4kbutel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7IoH4oerrDQrlrdGwXP9G8Q435K6Fw4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383328748088-lmk3r2j3dp2blvh3510q1scos4kbutel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
